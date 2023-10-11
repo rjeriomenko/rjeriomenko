@@ -1,4 +1,6 @@
-### Hi there 👋
+### Labas (hi)! I'm Rokas
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rjeriomenko/rjeriomenko/main/assets/cleancorporate.gif?raw=true" width="480" height="360" />
 
 <!--
 **rjeriomenko/rjeriomenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
