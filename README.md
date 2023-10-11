@@ -1,18 +1,23 @@
-### Labas (hi)! I'm Rokas
+# Labas (hi) 👋 I'm Rokas 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rjeriomenko/rjeriomenko/main/assets/cleancorporate.gif?raw=true" width="480" height="360" />
 
-<!--
-**rjeriomenko/rjeriomenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am: <br/> Full Stack Web Dev <br/> Part Time Game Dev <br/> Brooklyn Based
 
-Here are some ideas to get you started:
+🔭 I’m currently working on OutRun, where I'm using Godot Engine to make a 3D version of my 2D vanilla JS game, OutRun()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning GDScript
+
+👯 I’m interested in collaborating with other developers on open-source projects and working with 3D modelers and animators during gamejams
+
+💬 Ask me about using AWS to implement CI/CD in your web app
+
+## Let's connect!
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+⚡ Fun fact: I enjoy coding as much as I enjoy fitness
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/rokas-jeriomenko-82b312121/
