@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rjeriomenko/rjeriomenko/main/assets/cleancorporate.gif?raw=true" width="480" height="360" />
 
-## I am: <br/> Full Stack Web Dev <br/> Part Time Game Dev <br/> Brooklyn Based
+## Full Stack Web Dev <br/> Part Time Game Dev <br/> Brooklyn Based
 
 🔭 I’m currently working on OutRun, where I'm using Godot Engine to make a 3D version of my 2D vanilla JS game, OutRun()
 
@@ -18,6 +18,7 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" alt="Email" width="22px" src="https://github.com/iconic/open-iconic/blob/master/svg/envelope-open.svg" />](mailto:rokas@jerio.me)
 
 <br/>
 <br/>
@@ -42,16 +43,18 @@
 <br/>
 
 ## Resume
-[resume]
+[Download][resume]
 
 <br/>
 
-## ⚡ Fun Fact
+## 💪 Fun Fact
 I enjoy coding as much as I enjoy fitness
 
 <br/>
 
-<img align="left" alt="Rokas Hard at Work" src="https://raw.githubusercontent.com/rjeriomenko/rjeriomenko/main/assets/hardatwork.jpg?raw=true" width="900" height="600" />
+<p align="center">
+  <img alt="Rokas Hard at Work" src="https://raw.githubusercontent.com/rjeriomenko/rjeriomenko/main/assets/hardatwork.jpg?raw=true" width="900" height="600" />
+</p>
 
 [linkedin]: https://www.linkedin.com/in/rokas-jeriomenko-82b312121/
 [portfolio]: https://www.rokasjeriomenko.com
