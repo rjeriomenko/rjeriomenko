@@ -1,4 +1,4 @@
-# Labas (hi) 👋 I'm Rokas 
+<h3> Labas (hi) 👋 I'm Rokas </h1>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rjeriomenko/rjeriomenko/main/assets/cleancorporate.gif?raw=true" width="480" height="360" />
 
@@ -15,9 +15,9 @@
 ## Let's connect!
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+
 ⚡ Fun fact: I enjoy coding as much as I enjoy fitness
 
-
-
-
 [linkedin]: https://www.linkedin.com/in/rokas-jeriomenko-82b312121/
+[portfolio]: https://www.rokasjeriomenko.com
