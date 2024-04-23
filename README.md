@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rjeriomenko/rjeriomenko/main/assets/cleancorporate.gif?raw=true" width="480" height="360" />
 
-## Full Stack Web Dev <br/> Part Time Game Dev <br/> Brooklyn Based
+### Full Stack Web Dev <br/> Part Time Game Dev <br/> Brooklyn Based
 
 🔭 I’m currently working on OutRun, where I'm using Godot Engine to make a 3D version of my 2D vanilla JS game, OutRun()
 
